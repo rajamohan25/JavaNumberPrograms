@@ -19,3 +19,6 @@ public class CountEvenDigitExceptZero {
 		System.out.println("Even digits present in "+copy+" is "+count);
 	}
 }
+//Sample Output
+//Enter the number: 837506320
+//Even digits present in 837506320 is 3
