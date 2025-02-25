@@ -16,3 +16,6 @@ public class AddFirstLastDigit {
         System.out.println("Addition of first and last digit of "+copy+" is "+sum);
 	}
 }
+// Sample Output
+// Enter the number: 7623143
+// Addition of first and last digit of 7623143 is 10
