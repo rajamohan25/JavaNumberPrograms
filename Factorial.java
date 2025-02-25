@@ -15,3 +15,6 @@ public class Factorial {
 
 	}
 }
+//Sample Output
+//Enter the number: 8
+//The factorial of 8 is 40320
