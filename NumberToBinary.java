@@ -19,3 +19,6 @@ public class NumberToBinary {
 		System.out.println("Binary number of "+copy+ " is "+res);
 	}
 }
+// Sample Output
+// Enter the number: 14
+// Binary number of 14 is 1110
