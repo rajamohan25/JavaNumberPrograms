@@ -17,3 +17,6 @@ public class DigitalSum {
 		System.out.println("Digital sum of "+copy+" is "+sum);
 	}
 }
+//Sample Output
+//Enter the number: 36476
+//Digital sum of 36476 is 26
